@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/phone-accessories",
+            "outputPath": "https://safasalha.github.io/phone-Accessories-2/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
